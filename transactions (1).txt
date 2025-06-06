@@ -1,0 +1,23 @@
+=== TRANSACTION LOG ===
+Date & Time: 2025-06-06 15:20:39
+Cashier: Lattrell123
+Items Purchased:
+  - White caramel (Large) | Qty: 5 | Price: P99.00 | Subtotal: P495.00
+  - Spanish Latte (Large) | Qty: 5 | Price: P99.00 | Subtotal: P495.00
+Total Amount: P990.00
+Payment Received: P1000.00
+Change Given: P10.00
+========================
+
+=== TRANSACTION LOG ===
+Date & Time: 2025-06-06 15:22:25
+Cashier: Lattrell123
+Items Purchased:
+  - Macha (Small) | Qty: 4 | Price: P79.00 | Subtotal: P316.00
+  - Spanish latte (Medium) | Qty: 1 | Price: P89.00 | Subtotal: P89.00
+  - Sweet tea hazelnut (Small) | Qty: 3 | Price: P79.00 | Subtotal: P237.00
+Total Amount: P642.00
+Payment Received: P700.00
+Change Given: P58.00
+========================
+
